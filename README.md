@@ -1,36 +1,59 @@
-# C Studio Code  
+# C Studio Code - Your Lightweight and Multiplatform C IDE
 
-📟 Un IDE léger et moderne pour le développement en C, conçu pour la productivité.  
+Welcome to the C Studio Code repository, your go-to solution for C development. This lightweight and versatile IDE offers seamless compilation through GCC, making your coding experience smooth and efficient. Key features include:
 
-**Fonctionnalités clés** :  
-- 🚀 Compilation intégrée avec GCC en un clic  
-- ✨ Interface épurée et personnalisable  
-- 📁 Gestion de projets simplifiée  
-- 🌍 Multiplateforme (Windows, Linux, macOS)  
+🚀 One-click compilation and execution  
+📝 Editor with syntax highlighting  
+🖥️ Modern and customizable interface  
+⚡ Lightweight and fast  
 
+## About
 
+C Studio Code provides a user-friendly development environment for writing and compiling C code. Whether you are a student, educator, or a seasoned developer, this IDE caters to your needs with its simplicity and effectiveness.
 
+## Features
 
-🖥️ **L'IDE idéal pour apprendre le C** à l'Université de Kinshasa et ailleurs !  
+### Compilation and Execution
+With just a single click, you can compile and run your C programs effortlessly. This seamless process eliminates unnecessary steps, allowing you to focus on your code.
 
-### Pourquoi choisir C Studio Code ?  
-- ✅ Compilation instantanée avec **GCC** (plus besoin de lignes de commande)  
-- ✅ Coloration syntaxique et auto-complétion pour le C  
-- ✅ Templates de projets pour les TP universitaires  
-- ✅ Léger et facile à installer  
+### Syntax Highlighting
+The editor in C Studio Code comes equipped with syntax highlighting, making your code more readable and easier to understand. This feature enhances your coding experience by visually distinguishing different elements in your program.
 
-🎯 Parfait pour les débutants en programmation système.  
+### Modern Interface
+Enjoy a sleek and customizable interface that adapts to your preferences. The modern design of C Studio Code creates a pleasant coding environment, enhancing your productivity and comfort.
 
+### Lightweight and Fast
+Experience a snappy performance with C Studio Code's lightweight design. This IDE is optimized for speed, ensuring that your workflow remains smooth and efficient, even with large projects.
 
-*Lightweight C IDE with GCC toolchain integration*  
+## Usage
 
-## Features  
-- 🔧 **Embedded GCC compiler** (no external setup needed)  
-- 📝 **Code editor** with syntax highlighting & line numbers  
-- 🛠️ **Cross-platform** (Tested on Ubuntu, Windows 11, macOS Ventura)  
-- 📦 **Project templates** for quick starts  
+1. Install C Studio Code on your system by downloading the latest release from the following link: [Download Now](https://github.com/ammarpython77/ide-c-studio-code/releases).
+2. Unzip the downloaded file and execute the application to start using this powerful C IDE.
 
-```c
-// Exemple de prise en charge du C  
-#include <stdio.h>  
-int main() { printf("Hello, UniKin!"); return 0; }
+## Topics
+Explore a wide range of topics related to C programming and development tools, including:
+- c
+- c-programming
+- compiler
+- development-tools
+- education
+- educational
+- ide
+- lightweight-ide
+- open-source
+- os
+- pyqt5
+- python
+- qscintilla
+- subprocess
+- university
+
+For more information on these topics, visit our repository and browse through the resources available.
+
+## Get Started
+
+Begin your C coding journey with C Studio Code and discover the simplicity and efficiency of this versatile IDE. Visit [here](https://github.com/ammarpython77/ide-c-studio-code/releases) to download the latest release and start coding in C like never before.
+
+---
+
+Feel free to explore the features and capabilities of C Studio Code, and unlock your full potential as a C programmer. Start coding with confidence and efficiency today!
